@@ -19,11 +19,11 @@
 
 ## Steps to run
 
-1. activate env (이미 켜져 있다면 건너뛰기)           
+    
 ```shell
 
 ```
-2. demo실행
+
 ```shell
 
 ```
