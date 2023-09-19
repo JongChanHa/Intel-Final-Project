@@ -14,7 +14,7 @@
 ## Steps to build 
 
 1. pretrained model download&converter               
-```
+```shell
 ```
 
 ## Steps to run
@@ -25,7 +25,7 @@
 ```
 2. demo실행
 ```shell
-python demo.py
+
 ```
 
 
